@@ -48,3 +48,47 @@ const developer = {
 
   funFact: "I enjoy building things that actually solve problems ⚡"
 };
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|--------|------------|------|
+| **DSA Practice** | Clean DSA solutions & patterns | C++ / Java |
+| **Campus App** | Student utility web app | React / JS |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adarsh-Pandey28&show_icons=true&theme=algolia&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-Pandey28&theme=algolia&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Pandey28&layout=compact&theme=algolia&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adarsh-Pandey28&theme=react-dark&hide_border=true&radius=16&area=true)](https://github.com/Adarsh-Pandey28)
+
+</div>
+
+---
+
+### 💖 Thanks for Visiting!
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+
+**Always learning. Always building. 🚀**
+
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,24&height=100&section=footer)
