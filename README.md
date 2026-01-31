@@ -15,9 +15,9 @@
 </p>
 
 <p>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="www.linkedin.com/in/adarsh-pandey-869b46371"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/AdarshBytes/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="mailto:adarshkpandey28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
@@ -92,8 +92,8 @@ const developer = {
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [**DSA Practice Repo**](https://github.com/Adarsh-Pandey28) | Structured DSA problems & solutions | C++ · Java |
-| [**Campus Utility App**](https://github.com/Adarsh-Pandey28) | Student-focused productivity web app | React · JavaScript |
+| [**VibeSRM**](https://github.com/Adarsh-Pandey28/VibeSRM) | VibeSRM | JavaScript |
+| [**AGRI**](https://github.com/Adarsh-Pandey28/AGRI) | Redefining Agriculture | React · TypeScript |
 
 </div>
 
@@ -136,21 +136,11 @@ const developer = {
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Noto%20Sans&ext=heatmap)](https://leetcode.com/YOUR_LEETCODE_USERNAME/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/AdarshBytes?theme=dark&font=Noto%20Sans&ext=heatmap)](https://leetcode.com/AdarshBytes/)
 
 </div>
 
 ---
-
-<!-- FUN SECTION -->
-<div align="center">
-
-## Cute GIF
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" />
-
-<br>
-</div>
 
 ---
 
