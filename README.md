@@ -100,7 +100,7 @@ const developer = {
 |--------|-------------|------------|
 | [**VibeSRM**](https://github.com/Adarsh-Pandey28/VibeSRM) | VibeSRM | JavaScript |
 | [**AGRI**](https://github.com/Adarsh-Pandey28/AGRI) | Redefining Agriculture | React · TypeScript |
-| [**CUPID**](https://github.com/Adarsh-Pandey28/Cupid-/tree/main) | Cupid | React · TypeScript |
+| [**CUPID**](https://github.com/Adarsh-Pandey28/Cupid-/tree/main) | Cupid | Javascript · CSS |
 | [**Health Predict MCP**](https://github.com/Adarsh-Pandey28/health_predict_mcp)| Health Predict MCP | Python |
 | [**AI/ML**](https://github.com/Adarsh-Pandey28) | Loading... | Loading... |
 </div>
