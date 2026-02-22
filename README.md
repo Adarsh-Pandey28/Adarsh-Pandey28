@@ -32,21 +32,69 @@ const developer = {
   name: "Adarsh Kumar Pandey",
   location: "India 🇮🇳",
   education: "Undergraduate Student",
+  tagline: "Student | Software Developer | Tech Enthusiast",
+  
   passion: "Problem Solving & Software Development",
 
-  languages: ["C", "C++", "Python", "Java", "JavaScript"],
+  languages: ["C", "C++", "Python", "JavaScript"],
+  
+  libraries: {
+    dataScience: ["NumPy", "Pandas", "Matplotlib", "Seaborn", "Scikit-Learn"]
+  },
+
+  webDevelopment: {
+    frontend: ["React", "HTML5", "CSS3"],
+    focus: "Building React Apps & Backend APIs"
+  },
 
   currentlyBuilding: {
     dsa: ["Trees", "Graphs", "Dynamic Programming"],
-    web: ["React Apps", "Backend APIs"]
+    web: ["React Apps", "Backend APIs"],
+    aiml: "Exploring ML projects"
   },
+
+  projects: {
+    vibeSRM: {
+      description: "Real-time campus hub application",
+      tech: ["JavaScript", "React"],
+      github: "https://github.com/Adarsh-Pandey28/VibeSRM"
+    },
+    agri: {
+      description: "Redefining Agriculture",
+      tech: ["React", "TypeScript"],
+      github: "https://github.com/Adarsh-Pandey28/AGRI"
+    },
+    cupid: {
+      description: "Cupid application",
+      tech: ["React", "TypeScript"],
+      github: "https://github.com/Adarsh-Pandey28/Cupid-"
+    },
+    healthPredict: {
+      description: "Health Predict MCP",
+      tech: ["Python"],
+      github: "https://github.com/Adarsh-Pandey28/health_predict_mcp"
+    }
+  },
+
+  operatingSystems: ["Linux", "Ubuntu", "Windows"],
 
   dailyDriver: {
     os: "Windows / Linux",
-    tools: ["VS Code", "Git", "Terminal"]
+    tools: ["VS Code", "Git", "GitHub", "Bash", "Terminal"]
   },
 
-  funFact: "I enjoy building things that actually solve problems ⚡"
+  focus: "DSA & Development",
+
+  socials: {
+    linkedin: "https://www.linkedin.com/in/adarsh-pandey-869b46371/",
+    leetcode: "https://leetcode.com/u/AdarshBytes/",
+    github: "https://github.com/Adarsh-Pandey28",
+    email: "adarshkpandey28@gmail.com"
+  },
+
+  funFact: "I enjoy building things that actually solve problems ⚡",
+  
+  motto: "Always learning. Always building. 🚀"
 };
 ```
 
