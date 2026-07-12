@@ -183,18 +183,7 @@ const developer = {
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adarsh-Pandey28&theme=react-dark&hide_border=true&radius=16&area=true&custom_title=Contribution%20Graph)](https://github.com/Adarsh-Pandey28)
 
-</div>
 
----
-
-<!-- LEETCODE STATS -->
-## 💡 LeetCode Stats
-
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/AdarshBytes?theme=dark&font=Noto%20Sans&ext=heatmap)](https://leetcode.com/AdarshBytes/)
-
-</div>
 
 ---
 
